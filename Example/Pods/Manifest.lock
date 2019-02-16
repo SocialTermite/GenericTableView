@@ -1,0 +1,16 @@
+PODS:
+  - GenericTableView (0.1.0)
+
+DEPENDENCIES:
+  - GenericTableView (from `../`)
+
+EXTERNAL SOURCES:
+  GenericTableView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GenericTableView: 87fd58cd1379368fd2508a9506275675381a0489
+
+PODFILE CHECKSUM: cb34d271e929294606bb134b2fab295d3afc993d
+
+COCOAPODS: 1.5.3

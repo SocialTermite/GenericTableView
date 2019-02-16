@@ -1,0 +1,22 @@
+{
+  "name": "GenericTableView",
+  "version": "0.1.0",
+  "summary": "A short description of GenericTableView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Konstantin Bondar/GenericTableView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Konstantin Bondar": "konstantin.bondar@postindustria.com"
+  },
+  "source": {
+    "git": "https://github.com/Konstantin Bondar/GenericTableView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GenericTableView/Classes/**/*"
+}
